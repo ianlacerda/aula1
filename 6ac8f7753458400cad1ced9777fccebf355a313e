@@ -1,0 +1,27 @@
+[33mcommit 21abe7e1d2a7d700e1ef6352a2193bb63eabc94e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ian Lacerda <ian.lacerda@aluno.ufabc.edu.br>
+Date:   Mon Nov 29 19:23:11 2021 -0300
+
+    Revert "Versão 0.0.2"
+    
+    This reverts commit 7f49eb21e6356f4428da5512c936d67c273fd130.
+    
+    Apaga isso aí
+
+[33mcommit ef507fd63378e8599c06aa2ba62b6ac0f2947f69[m
+Author: Ian Lacerda <ian.lacerda@aluno.ufabc.edu.br>
+Date:   Mon Nov 29 19:21:05 2021 -0300
+
+    Versão 0.0.3 Linhas acrescentadas
+
+[33mcommit 7f49eb21e6356f4428da5512c936d67c273fd130[m
+Author: Ian Lacerda <ian.lacerda@aluno.ufabc.edu.br>
+Date:   Mon Nov 29 19:13:01 2021 -0300
+
+    Versão 0.0.2
+
+[33mcommit 6ac8f7753458400cad1ced9777fccebf355a313e[m
+Author: Ian Lacerda <ian.lacerda@aluno.ufabc.edu.br>
+Date:   Mon Nov 29 19:01:13 2021 -0300
+
+    Versão 0.0.1
